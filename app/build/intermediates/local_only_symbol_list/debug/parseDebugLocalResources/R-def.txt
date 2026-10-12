@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color negative
+color positive
+color primary
+color primary_dark
+color surface
+color text_primary
+color text_secondary
+color white
+drawable logo
+mipmap ic_launcher
+mipmap ic_launcher_round
+string all_settled
+string app_name
+string btn_save
+string empty_entries
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string hint_amount
+string hint_date
+string hint_item
+string hint_person
+string nav_add
+string nav_entries
+string nav_summary
+string project_id
+string title_all_entries
+string title_settlement
+string title_summary
+style Theme.SaamanApp

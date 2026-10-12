@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YKS Payments</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_entries">Entries</string>
+    <string name="nav_summary">Summary</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_person">Purchased By</string>
+    <string name="hint_amount">Amount (₹)</string>
+    <string name="hint_item">Item Name</string>
+    <string name="btn_save">Save Entry</string>
+    <string name="title_all_entries">All Entries</string>
+    <string name="title_summary">Summary</string>
+    <string name="title_settlement">Who should pay whom?</string>
+    <string name="empty_entries">No entries yet. Add your first purchase!</string>
+    <string name="all_settled">Everyone is settled up. No dues.</string>
+</resources>

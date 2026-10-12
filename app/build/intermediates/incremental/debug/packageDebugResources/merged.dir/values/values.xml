@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#F59E0B</color>
+    <color name="background">#F8FAFC</color>
+    <color name="negative">#EF4444</color>
+    <color name="positive">#22C55E</color>
+    <color name="primary">#10B981</color>
+    <color name="primary_dark">#047857</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <string name="all_settled">Everyone is settled up. No dues.</string>
+    <string name="app_name">YKS Payments</string>
+    <string name="btn_save">Save Entry</string>
+    <string name="empty_entries">No entries yet. Add your first purchase!</string>
+    <string name="gcm_defaultSenderId" translatable="false">543000221920</string>
+    <string name="google_api_key" translatable="false">AIzaSyBVn8Yi1JjooceOMaMuKkTKqxQY_jAoVzQ</string>
+    <string name="google_app_id" translatable="false">1:543000221920:android:2f0ee4e0d6bbb554ab5885</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBVn8Yi1JjooceOMaMuKkTKqxQY_jAoVzQ</string>
+    <string name="google_storage_bucket" translatable="false">yks-application-d1792.firebasestorage.app</string>
+    <string name="hint_amount">Amount (₹)</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_item">Item Name</string>
+    <string name="hint_person">Purchased By</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_entries">Entries</string>
+    <string name="nav_summary">Summary</string>
+    <string name="project_id" translatable="false">yks-application-d1792</string>
+    <string name="title_all_entries">All Entries</string>
+    <string name="title_settlement">Who should pay whom?</string>
+    <string name="title_summary">Summary</string>
+    <style name="Theme.SaamanApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

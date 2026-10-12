@@ -1,0 +1,7 @@
+#Tue Sep 01 17:03:51 IST 2026
+base.0=D\:\\KishorMP\\Elpis\\saaman-app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=D\:\\KishorMP\\Elpis\\saaman-app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
